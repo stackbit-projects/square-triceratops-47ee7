@@ -1,6 +1,5 @@
 ---
 title: About Actualized
-subtitle: "Actualized Consulting LLC is a\_  We're a modern software studio focused on developing high-quality solutions curated to your specific needs.  <br />  Our cohesive and talented team collaborates with you to create something that you'll truly be proud to see come to life.\""
 seo:
   title: Style Guide
   description: This is the style guide page
