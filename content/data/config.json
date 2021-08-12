@@ -9,13 +9,13 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
-                "url": "/",
+                "label": "About",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/style-guide",
+                "label": "Home",
+                "url": "/",
                 "style": "link"
             },
             {
