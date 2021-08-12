@@ -20,7 +20,11 @@ seo:
     - name: 'twitter:description'
       value: This is the style guide page
 layout: page
-subtitle: '  We''re a modern software studio focused on developing high-quality solutions curated to your specific needs.   <br />   Our cohesive and talented team collaborates with you to create something that you''ll truly be proud to see come to life."'
+subtitle: >-
+  Actualized Consulting is a modern software studio focused on developing
+  high-quality solutions curated to your specific needs.   <br />   Our cohesive
+  and talented team collaborates with you to create something that you'll truly
+  be proud to see come to life."
 ---
 
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
